@@ -1,5 +1,3 @@
-![header](/src/cover.jpg)
-
 <div align="center">
 
 ## Hi there 👋, I'm Yasin Ahanj!
