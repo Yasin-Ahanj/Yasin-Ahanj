@@ -1,62 +1,43 @@
-<h1 align="left">Hi 👋! My name is Yasin Ahanj and I'm a Full stack developer  from Iran</h1>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="30" alt="phpstorm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-</div>
-
-###
-
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTN0dDVlcWN4OW1kcXNzYXI0b3N0YzUzZmwwMGFzNWJkNmpxdWg0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8m7nAJTYvzNUh54HQm/giphy.gif"  />
-
-###
+![header](/src/cover.jpg)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yasin-Ahanj&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yasin-Ahanj&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+## Hi there 👋, I'm Shahin!
+
 </div>
 
-###
+> Frontend Developer with over 3 years of experience in designing and developing websites using modern technologies such as React, Next.js, and TypeScript. I pay great attention to details and coding standards, striving to deliver the best possible results in my projects, both technically & in terms of user experience
+Tackling difficult challenges & finding appropriate & creative solutions for them is one of my favorite aspects of work.
 
-<br clear="both">
+<div align="center">
+  
+<a href="https://shahin.liara.run/">![CV](https://img.shields.io/static/v1?logo=bookstack&message=CV&label=&color=ff0000&logoColor=fff&style=flat-square)</a>
+<a href="https://www.linkedin.com/in/shahinmg85/">![Linkedin](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&color=ff0000&logoColor=fff)</a>
 
-<img src="https://raw.githubusercontent.com/Yasin-Ahanj/Yasin-Ahanj/output/snake.svg" alt="Snake animation" />
+</div>
+  
+<div align="center">
+  
+## Tech Stack
 
-###
+![typescript](https://img.shields.io/static/v1?logo=typescript&label=&message=Typescript&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
+![React](https://img.shields.io/static/v1?logo=react&label=&message=React&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square) 
+![Next](https://img.shields.io/static/v1?logo=next.js&label=&message=Next&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square) 
+![Redux](https://img.shields.io/static/v1?logo=redux&label=&message=Redux&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square) 
+![Pwa](https://img.shields.io/static/v1?logo=pwa&label=&message=Pwa&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square) 
+![Tailwind](https://img.shields.io/static/v1?logo=tailwindcss&label=&message=Tailwind&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square) 
+![Mui](https://img.shields.io/static/v1?logo=mui&label=&message=Mui&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square) 
+![Bootstrap](https://img.shields.io/static/v1?logo=bootstrap&label=&message=Bootstrap&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square) 
+![Jest](https://img.shields.io/static/v1?logo=jest&label=&message=Jest&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)  
+![Swagger](https://img.shields.io/static/v1?logo=swagger&label=&message=Swagger&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
+![Postman](https://img.shields.io/static/v1?logo=postman&label=&message=Postman&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
+![Npm](https://img.shields.io/static/v1?logo=npm&label=&message=Npm&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square) 
+![Git](https://img.shields.io/static/v1?logo=git&label=&message=Git&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
+![Github](https://img.shields.io/static/v1?logo=github&label=&message=Github&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square) 
+ 
+</div>
+</div> 
+
+ <div> 
+    <img alt="logo" src='https://github.com/saadeghi/saadeghi/blob/master/dino.gif?raw=true' />
+</div>
