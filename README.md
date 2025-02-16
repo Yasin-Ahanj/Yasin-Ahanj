@@ -6,8 +6,17 @@
 
 </div>
 
-> Frontend Developer with over 3 years of experience in designing and developing websites using modern technologies such as React, Next.js, and TypeScript. I pay great attention to details and coding standards, striving to deliver the best possible results in my projects, both technically & in terms of user experience
-Tackling difficult challenges & finding appropriate & creative solutions for them is one of my favorite aspects of work.
+>As a skilled PHP and Laravel developer, I specialize in building dynamic, high-performance web applications with clean, maintainable code. With expertise in Laravel's robust framework, I develop secure, scalable, and efficient backend solutions, integrating APIs, databases, and modern frontend technologies. I have experience in designing RESTful APIs, implementing authentication systems, and optimizing database queries for seamless performance.
+
+My skill set includes:
+✅ Laravel & PHP Development
+✅ API Development & Integration
+✅ Database Management (MySQL, PostgreSQL)
+✅ Authentication & Security (JWT, OAuth)
+✅ Frontend Integration (React, Vue.js)
+✅ Performance Optimization & Debugging
+
+I am passionate about crafting powerful web applications and continuously improving my skills to stay updated with the latest industry trends
 
 <div align="center">
   
