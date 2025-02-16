@@ -2,7 +2,7 @@
 
 <div align="center">
 
-## Hi there 👋, I'm Shahin!
+## Hi there 👋, I'm Yasin Ahanj!
 
 </div>
 
