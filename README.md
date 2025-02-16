@@ -11,9 +11,9 @@
 My skill set includes:
 ✅ Laravel & PHP Development
 ✅ API Development & Integration
-✅ Database Management (MySQL, PostgreSQL)
+✅ Database Management (MySQL)
 ✅ Authentication & Security (JWT, OAuth)
-✅ Frontend Integration (React, Vue.js)
+✅ Frontend Integration (React)
 ✅ Performance Optimization & Debugging
 
 I am passionate about crafting powerful web applications and continuously improving my skills to stay updated with the latest industry trends
