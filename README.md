@@ -48,5 +48,5 @@ I am passionate about crafting powerful web applications and continuously improv
 ## Tech Stack
 
  <div> 
-    <img alt="logo" src='[https://github.com/saadeghi/saadeghi/blob/master/dino.gif?raw=true](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW94ODlreG9vcjlxaXk3dGg3NjNiMXF2cW40bWF3Y2d4dHEwYTJrcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xuWkuYl33i28fIwkBM/giphy.gif)' />
+    <img alt="logo" src='https://github.com/saadeghi/saadeghi/blob/master/dino.gif?raw=true' />
 </div>
