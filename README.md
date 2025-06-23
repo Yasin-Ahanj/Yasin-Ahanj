@@ -22,12 +22,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Yasin-Ahanj&locale=en&mode=weekly&theme=default&hide_border=false&border_radius=8&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
 ###
 
 ## Hi there 👋, I'm Yasin Ahanj!
